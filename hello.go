@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/JSCOP/testgit/tree/test/greetings"
+	"SayHelloModule"
 )
 
 func SayHi() {
-	message := greetings.Hello("jisung")
+	message := SayHelloModule.Hello("jisung")
 	fmt.Println(message)
 }
