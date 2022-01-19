@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/JSCOP/testgit/greetings"
+	"github.com/JSCOP/testgit/tree/test/greetings"
 )
 
 func main() {
