@@ -1,10 +1,9 @@
 package main
 
 import (
-	"fmt"
+	"github.com/JSCOP/testgit/tree/test/Module/HiModule/"
 )
 
 func main() {
-	fmt.Println("Hello world!")
-
+	HiModule.Hello("jisung")
 }
