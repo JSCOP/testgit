@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"SayHelloModule"
+	"github.com/JSCOP/testgit/tree/test/SayHelloModule"
 )
 
 func SayHi() {
